@@ -1,2 +1,2 @@
 # Dyna-Manuals
-Manuals for Dyna 2400 CNC and SKIP language
+Manuals for Dyna 2800 CNC and SKIP language
